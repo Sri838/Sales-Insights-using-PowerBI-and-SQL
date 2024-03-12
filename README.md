@@ -1,1 +1,1 @@
-# Sales-Insights-using-PowerBI-and-SQL
+# Atliq-Hardware-Sales-Insights-using-PowerBI-and-SQL
